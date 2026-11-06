@@ -1,6 +1,6 @@
 {
-  "siteOrigin": "https://lm1668-cpu.github.io/woodly-pages",
-  "base": "/woodly-pages/",
+  "siteOrigin": "https://woodly.hk",
+  "base": "/",
   "routes": [
     {
       "route": "/",
@@ -8,7 +8,7 @@
       "status": 200,
       "title": "香港新樓小宅室內設計及裝修｜270–430呎訂製傢俬｜小窩窩",
       "description": "小窩窩專注 270–430 呎香港新樓小宅，提供室內設計、裝修工程、訂製傢俬、燈光軟裝及入伙整理，以收納、動線和預算優次打造更好住的二人生活。",
-      "canonical": "https://lm1668-cpu.github.io/woodly-pages/"
+      "canonical": "https://woodly.hk/"
     },
     {
       "route": "/services",
@@ -16,7 +16,7 @@
       "status": 200,
       "title": "香港新樓小宅設計、裝修及訂製傢俬服務｜小窩窩",
       "description": "由收樓前規劃、空間設計、工程統籌，到訂製傢俬、燈光軟裝及入伙整理，小窩窩為香港 270–430 呎新樓提供一站式小宅裝修服務。",
-      "canonical": "https://lm1668-cpu.github.io/woodly-pages/services/"
+      "canonical": "https://woodly.hk/services/"
     },
     {
       "route": "/works",
@@ -24,7 +24,7 @@
       "status": 200,
       "title": "香港新樓小宅室內設計作品集｜真實住宅案例｜小窩窩",
       "description": "探索小窩窩的香港住宅設計案例，包括長沙灣 The Harmonies 344 呎小宅、英輝臺灰階收納及明珠臺書牆餐區，了解收納、動線與入住完成度。",
-      "canonical": "https://lm1668-cpu.github.io/woodly-pages/works/"
+      "canonical": "https://woodly.hk/works/"
     },
     {
       "route": "/made-to-measure",
@@ -32,7 +32,7 @@
       "status": 200,
       "title": "香港小宅訂製傢俬、收納規劃及軟裝配搭｜小窩窩",
       "description": "由玄關、睡眠區、工作區到餐桌收納，小窩窩按香港新樓住戶的使用習慣規劃訂製傢俬、五金、燈光、軟裝及智能生活細節。",
-      "canonical": "https://lm1668-cpu.github.io/woodly-pages/made-to-measure/"
+      "canonical": "https://woodly.hk/made-to-measure/"
     },
     {
       "route": "/process",
@@ -40,7 +40,7 @@
       "status": 200,
       "title": "香港新樓裝修工程流程及質量管理｜40–90日參考工期｜小窩窩",
       "description": "由分享平面、釐清生活、設計施工到入住交付，小窩窩以清楚的工程範圍、責任分工及下一步規劃，協調香港新樓小宅裝修流程。",
-      "canonical": "https://lm1668-cpu.github.io/woodly-pages/process/"
+      "canonical": "https://woodly.hk/process/"
     },
     {
       "route": "/budget",
@@ -48,7 +48,7 @@
       "status": 200,
       "title": "香港小宅裝修預算指南｜新樓工程、訂製傢俬及生活優次｜小窩窩",
       "description": "小窩窩以工程範圍、訂製傢俬、材質電器及入住完成度，協助香港新樓住戶理解小宅裝修預算與投資優次，而非只比較每呎死價。",
-      "canonical": "https://lm1668-cpu.github.io/woodly-pages/budget/"
+      "canonical": "https://woodly.hk/budget/"
     },
     {
       "route": "/consultation",
@@ -56,7 +56,7 @@
       "status": 200,
       "title": "預約香港新樓小宅設計及裝修諮詢｜WhatsApp 傳圖｜小窩窩",
       "description": "分享單位平面圖、實用面積、預計入伙日期及生活需要，小窩窩會為你的香港新樓小宅準備初步設計與裝修方向。",
-      "canonical": "https://lm1668-cpu.github.io/woodly-pages/consultation/"
+      "canonical": "https://woodly.hk/consultation/"
     },
     {
       "route": "/inspiration",
@@ -64,7 +64,7 @@
       "status": 200,
       "title": "香港新樓小宅設計靈感｜收樓、收納及裝修預算筆記｜小窩窩",
       "description": "小窩窩整理香港新樓收樓、細單位收納、訂製傢俬、裝修預算與入伙安排的實用設計筆記，讓每一個小宅決定更清楚。",
-      "canonical": "https://lm1668-cpu.github.io/woodly-pages/inspiration/"
+      "canonical": "https://woodly.hk/inspiration/"
     },
     {
       "route": "/about",
@@ -72,7 +72,7 @@
       "status": 200,
       "title": "關於小窩窩｜香港新樓小宅室內設計及裝修工作室",
       "description": "小窩窩專注香港 270–430 呎新樓小宅，以生活優次、工程邏輯、收納規劃與入住完成度，為兩個人的家留出秩序、溫度與餘裕。",
-      "canonical": "https://lm1668-cpu.github.io/woodly-pages/about/"
+      "canonical": "https://woodly.hk/about/"
     },
     {
       "route": "/contact",
@@ -80,7 +80,7 @@
       "status": 200,
       "title": "聯絡小窩窩｜香港新樓小宅設計及裝修查詢",
       "description": "透過 WhatsApp 或電郵聯絡小窩窩，分享你的香港新樓單位、平面圖、面積及預計入伙日期，開始規劃更好住的小宅設計與裝修方向。",
-      "canonical": "https://lm1668-cpu.github.io/woodly-pages/contact/"
+      "canonical": "https://woodly.hk/contact/"
     },
     {
       "route": "/privacy",
@@ -88,7 +88,7 @@
       "status": 200,
       "title": "小窩窩私隱政策及個人資料處理說明｜香港新樓設計",
       "description": "了解小窩窩如何處理設計及裝修查詢中的聯絡資料、物業資料、平面圖與相片，以及查閱、改正和撤回推廣同意的安排。",
-      "canonical": "https://lm1668-cpu.github.io/woodly-pages/privacy/"
+      "canonical": "https://woodly.hk/privacy/"
     },
     {
       "route": "/personal-information-collection-statement",
@@ -96,7 +96,7 @@
       "status": 200,
       "title": "小窩窩收集個人資料聲明｜香港新樓設計諮詢表單",
       "description": "了解小窩窩收集姓名、WhatsApp 號碼、物業資料、平面圖及相片的用途、必填及選填項目、直接促銷同意與查閱改正途徑。",
-      "canonical": "https://lm1668-cpu.github.io/woodly-pages/personal-information-collection-statement/"
+      "canonical": "https://woodly.hk/personal-information-collection-statement/"
     },
     {
       "route": "/cookies",
@@ -104,7 +104,7 @@
       "status": 200,
       "title": "小窩窩 Cookie 設定｜必要、分析及行銷偏好說明",
       "description": "了解小窩窩如何分開處理網站必要 Cookie、分析及行銷偏好；在沒有取得選擇前，網站不會載入第三方分析或廣告追蹤工具。",
-      "canonical": "https://lm1668-cpu.github.io/woodly-pages/cookies/"
+      "canonical": "https://woodly.hk/cookies/"
     },
     {
       "route": "/works/the-harmonies-changsha-wan",
@@ -112,7 +112,7 @@
       "status": 200,
       "title": "The Harmonies 長沙灣344呎小宅設計案例｜香港新樓裝修｜小窩窩",
       "description": "長沙灣 The Harmonies 32 平方米（約 344 呎）住宅設計案例，以收納、生活動線、質感及入住完成度，呈現小窩窩的香港新樓小宅設計方向。",
-      "canonical": "https://lm1668-cpu.github.io/woodly-pages/works/the-harmonies-changsha-wan/"
+      "canonical": "https://woodly.hk/works/the-harmonies-changsha-wan/"
     },
     {
       "route": "/works/ying-fai-terrace",
@@ -120,7 +120,7 @@
       "status": 200,
       "title": "英輝臺住宅設計案例｜灰階收納及黑框玻璃分區｜小窩窩",
       "description": "英輝臺住宅案例以全高灰色衣櫃、黑框玻璃分區、人字紋木地板及訂製衛浴收納，整理客飯廳、廚房與休息空間的日常動線。",
-      "canonical": "https://lm1668-cpu.github.io/woodly-pages/works/ying-fai-terrace/"
+      "canonical": "https://woodly.hk/works/ying-fai-terrace/"
     },
     {
       "route": "/works/ming-chu-terrace",
@@ -128,7 +128,7 @@
       "status": 200,
       "title": "明珠臺住宅設計案例｜書牆、餐區收納及雙人洗手盆櫃｜小窩窩",
       "description": "明珠臺住宅案例透過整牆書櫃、餐區收納、牆面藝術展示及雙人洗手盆櫃，為閱讀、用餐與日常整理安排各自清楚而不擁擠的位置。",
-      "canonical": "https://lm1668-cpu.github.io/woodly-pages/works/ming-chu-terrace/"
+      "canonical": "https://woodly.hk/works/ming-chu-terrace/"
     },
     {
       "route": "/inspiration/new-flat-90-day-timeline",
@@ -136,7 +136,7 @@
       "status": 200,
       "title": "新樓收樓後90日時間表｜驗樓、設計、工程到入伙｜小窩窩",
       "description": "由驗樓、管理處申請、設計確認、工程、訂製傢俬到入伙整理，拆解香港新樓收樓後 90 日內需要安排的實際時間表與先後次序。",
-      "canonical": "https://lm1668-cpu.github.io/woodly-pages/inspiration/new-flat-90-day-timeline/"
+      "canonical": "https://woodly.hk/inspiration/new-flat-90-day-timeline/"
     },
     {
       "route": "/inspiration/small-home-storage-order",
@@ -144,7 +144,7 @@
       "status": 200,
       "title": "270–430呎小宅收納規劃｜先分習慣再做傢俬｜小窩窩",
       "description": "香港細單位收納不只追求櫃量；從日常取用頻率、玄關、床側、餐桌及窗邊開始，規劃真正順手、保留呼吸感的訂製傢俬。",
-      "canonical": "https://lm1668-cpu.github.io/woodly-pages/inspiration/small-home-storage-order/"
+      "canonical": "https://woodly.hk/inspiration/small-home-storage-order/"
     },
     {
       "route": "/inspiration/small-flat-budget-priorities",
@@ -152,7 +152,7 @@
       "status": 200,
       "title": "香港細單位裝修預算優次｜哪些地方值得投資｜小窩窩",
       "description": "細單位裝修不應只看每呎單價；從工程、廚衛機電、訂製傢俬、五金燈光及材質接觸面，了解哪些投資最影響香港新樓日常生活。",
-      "canonical": "https://lm1668-cpu.github.io/woodly-pages/inspiration/small-flat-budget-priorities/"
+      "canonical": "https://woodly.hk/inspiration/small-flat-budget-priorities/"
     },
     {
       "route": "/404",
@@ -160,7 +160,7 @@
       "status": 404,
       "title": "找不到此頁｜小窩窩",
       "description": "你瀏覽的頁面不存在、已被移動或暫時無法提供。請返回小窩窩首頁繼續瀏覽香港新樓小宅設計與裝修資訊。",
-      "canonical": "https://lm1668-cpu.github.io/woodly-pages/404.html"
+      "canonical": "https://woodly.hk/404.html"
     }
   ]
 }

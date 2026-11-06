@@ -2,4 +2,4 @@
 
 Only public website build artifacts. Full source is maintained in a separate private repository. Customer records and admin credentials are never committed here.
 
-Source release: e8b1abd566507ea56f182b87720b37de7b33e887
+Source release: fa079d9dc6efa21f4b78ba8b0f9167803f5287b8

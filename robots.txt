@@ -1,4 +1,4 @@
 User-agent: *
-Allow: /woodly-pages/
-Disallow: /woodly-pages/api/
-Sitemap: https://lm1668-cpu.github.io/woodly-pages/sitemap.xml
+Allow: /
+Disallow: /api/
+Sitemap: https://woodly.hk/sitemap.xml
