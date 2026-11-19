@@ -11,6 +11,14 @@
       "canonical": "https://woodly.hk/"
     },
     {
+      "route": "/shop",
+      "file": "shop/index.html",
+      "status": 200,
+      "title": "小窩窩選物網店｜小宅實木活動傢俬與座枱燈範例",
+      "description": "小窩窩選物網店展示適合小宅的實木活動傢俬與座枱燈產品範例，圖片為 AI 示意、非實物拍攝，並非現貨或售價承諾。請先透過 WhatsApp 查詢，確認貨源、售價、尺寸、規格及送貨安排後再決定。",
+      "canonical": "https://woodly.hk/shop/"
+    },
+    {
       "route": "/services",
       "file": "services/index.html",
       "status": 200,
